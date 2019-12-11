@@ -1,0 +1,13 @@
+
+Part 1 - Fundamentals: Primitive Types
+Part 2 - Namespaces: Functions, Classes, Modules and Packages
+Part 3 - Object Orientation
+Part 4 - Functional Programming
+
+DISCLAIMER: All examples in Python 3!
+
+** Executing Python Code **
+Interactive Mode python
+Run script or program python blah.py
+Run script and fallback to interactive mode python -i bla.py
+Single command line expression python -c 'print(3*15)'
